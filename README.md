@@ -26,3 +26,7 @@ kanban-ai-app/
 ## 📝 開発の進め方 (GitHub Flow)
 1.  機能ごとに作業ブランチを切り出して開発。
 2.  完了後、Pull Requestを作成して `main` ブランチへマージ。
+
+## 👥 開発メンバー
+*   **Holly-110** (メイン開発者)
+*   **Antigravity** (AIペアプログラマー)
